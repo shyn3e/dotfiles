@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = shyne.khamisa03@gmail.com
+	name = shyne khamisa
